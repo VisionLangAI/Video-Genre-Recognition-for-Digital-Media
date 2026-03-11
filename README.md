@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/1178525474.svg)](https://doi.org/10.5281/zenodo.18950831)
+
 # Video Genre Recognition for Digital Media
 
 This repository contains sample data and resources related to the study:
